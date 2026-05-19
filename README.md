@@ -55,7 +55,7 @@ controle-estoque/
 Entre na pasta do projeto:
 
 ```powershell
-cd "C:\Users\nogue\Documents\Codex\projetos\controle-estoque"
+cd "C:controle-estoque"
 ```
 
 Execute o sistema:
